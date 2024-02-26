@@ -1,4 +1,8 @@
-Fetures of dataset
+## Data Analysis Notebook
+This repository contains a notebook for exploratory data analysis on a dataset. The notebook includes various functions for visualizing and preprocessing the data.
+
+# Fetures of dataset
+-----------------------------------------------------------------------------------------------------------------------------------
 * age (numeric)
 * job : type of job (categorical: “admin”, “blue-collar”, “entrepreneur”, “housemaid”, “management”, “retired”, “self-employed”, “services”, “student”, “technician”, “unemployed”, “unknown”)
 * marital : marital status (categorical: “divorced”, “married”, “single”, “unknown”)
@@ -19,3 +23,12 @@ Fetures of dataset
 * cons.conf.idx: consumer confidence index — (numeric)
 * euribor3m: euribor 3 month rate — (numeric)
 * nr.employed: number of employees — (numeric)
+
+## Dependencies
+The notebook requires the following Python libraries:
+-------------------------------------------------------------------------------------------------------------------
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
