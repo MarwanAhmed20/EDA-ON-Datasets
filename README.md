@@ -27,7 +27,7 @@ This repository contains a notebook for exploratory data analysis on a dataset. 
 ## Dependencies
 The notebook requires the following Python libraries:
 -------------------------------------------------------------------------------------------------------------------
-* pandas
+* pandas  
 * numpy
-*matplotlib
-*seaborn
+* matplotlib
+* seaborn
